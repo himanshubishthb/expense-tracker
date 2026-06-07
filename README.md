@@ -267,14 +267,4 @@ VITE_API_URL=https://your-api.example.com/api npm run build
 - Email reports and notifications
 - PWA support for offline access
 
-## Screenshots
-
-> Add screenshots of the dashboard, expense form, chart, and mobile view here.
-
-| Dashboard | Expense Form | Chart View | Mobile |
-|-----------|--------------|------------|--------|
-| _screenshot-dashboard.png_ | _screenshot-form.png_ | _screenshot-chart.png_ | _screenshot-mobile.png_ |
-
----
-
 Built with React 19, Express, and Tailwind CSS.
